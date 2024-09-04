@@ -1,1 +1,2 @@
-Welcome to my GitHub repository! Here, you can find projects and code samples showcasing my skills and expertise across a diverse tech stack. Below is a comprehensive list of the technologies I work with:
+Hi, I'm Eyosias
+---
