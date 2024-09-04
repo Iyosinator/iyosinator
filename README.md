@@ -29,9 +29,7 @@ Software Engineer
   <img src= "https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="GeeksforGeeks" width="40" height="40">
 </a>
 ## My Tech Stack
-### Programming Language
-### Databases
-### Others
+
 
 
 
