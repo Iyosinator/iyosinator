@@ -5,9 +5,7 @@
 
 <p align="center">
   <em>
-    Passionate Computer Science & Chemical Engineering student <br>
-    Skilled in backend development, problem-solving & software architecture.
-  </em>
+    Open Source Lover, Rust Admirer
 </p>
 
 ---
