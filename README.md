@@ -1,8 +1,4 @@
 # Hi there, I'm Eyosi 👋
-<h1 align="center">
-  <code>👨‍💻 Eyosi</code>
-</h1>
-
 <p align="center">
   <em>
     Open Source Lover, Rust Admirer
