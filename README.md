@@ -6,10 +6,10 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/iyosinator/" target="blank"> <img align="center" src="assets/linkedin.svg" alt="iyosinator" height="30" width="40" /></a>
   <a href="https://x.com/Iyosinator" target="blank"> <img align="center" src="assets/x.svg" alt="iyosinator" height="30" width="40" /></a>
-  <a href="" target="blank"> <img align="center" src="" alt="iyosinator" height="30" width="40" /> Website</a>
-  <a href="mailto:iyosiasmulugeta@gmail.com" target="blank"> <img align="center" src="" alt="iyosinator" height="30" width="40" /> Email </a>
-  <a href="https://leetcode.com/u/MrBits/" target="blank"> <img align="center" src="" alt="iyosinator" height="30" width="40" /> LeetCode </a>
-  <a href="https://codeforces.com/profile/Mr.Bits" target="blank"> <img align="center" src="" alt="iyosinator" height="30" width="40" /> CodeForces </a>
+  <a href="" target="blank"> <img align="center" src="website.svg" alt="iyosinator" height="30" width="40" /> Website</a>
+  <a href="mailto:iyosiasmulugeta@gmail.com" target="blank"> <img align="center" src="email.svg" alt="iyosinator" height="30" width="40" /> Email </a>
+  <a href="https://leetcode.com/u/MrBits/" target="blank"> <img align="center" src="leetcode.svg" alt="iyosinator" height="30" width="40" /> LeetCode </a>
+  <a href="https://codeforces.com/profile/Mr.Bits" target="blank"> <img align="center" src="codeforces.svg" alt="iyosinator" height="30" width="40" /> CodeForces </a>
 
 </p>
 
