@@ -9,7 +9,7 @@
   <a href="" target="blank"> <img align="center" src="assets/website.svg" alt="Portfolio" height="30" width="30" /></a>
   <a href="mailto:iyosiasmulugeta@gmail.com" target="blank"> <img align="center" src="assets/email.svg" alt="Email" height="30" width="40" /></a>
   <a href="https://leetcode.com/u/MrBits/" target="blank"> <img align="center" src="assets/leetcode.svg" alt="LeetCode" height="30" width="40" /></a>
-  <a href="https://codeforces.com/profile/Mr.Bits" target="blank"> <img align="center" src="assets/codeforces.svg" alt="Codeforces" height="30" width="30" /></a>
+  <a href="https://codeforces.com/profile/Mr.Bits" target="blank"> <img align="center" src="assets/codeforces.svg" alt="Codeforces" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools I 💖 To Use:</h3>
