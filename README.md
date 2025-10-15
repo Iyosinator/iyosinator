@@ -4,12 +4,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="" target="blank"> <img align="center" src="" alt="iyosinator" height="30" width="40" /> Linkedin </a>
-  <a href="" target="blank"> <img align="center" src="" alt="iyosinator" height="30" width="40" /> X </a>
-  <a href="" target="blank"> <img align="center" src="" alt="iyosinator" height="30" width="40" /> LeetCode </a>
-  <a href="" target="blank"> <img align="center" src="" alt="iyosinator" height="30" width="40" /> CodeForces </a>
+  <a href="https://www.linkedin.com/in/iyosinator/" target="blank"> <img align="center" src="" alt="iyosinator" height="30" width="40" /> Linkedin </a>
+  <a href="https://x.com/Iyosinator" target="blank"> <img align="center" src="" alt="iyosinator" height="30" width="40" /> X </a>
   <a href="" target="blank"> <img align="center" src="" alt="iyosinator" height="30" width="40" /> Website </a>
-  <a href="" target="blank"> <img align="center" src="" alt="iyosinator" height="30" width="40" /> Email </a>
+  <a href="mailto:iyosiasmulugeta@gmail.com" target="blank"> <img align="center" src="" alt="iyosinator" height="30" width="40" /> Email </a>
+  <a href="https://leetcode.com/u/MrBits/" target="blank"> <img align="center" src="" alt="iyosinator" height="30" width="40" /> LeetCode </a>
+  <a href="https://codeforces.com/profile/Mr.Bits" target="blank"> <img align="center" src="" alt="iyosinator" height="30" width="40" /> CodeForces </a>
+
 </p>
 
 <h3 align="left">Languages and Tools I 💖:</h3>
