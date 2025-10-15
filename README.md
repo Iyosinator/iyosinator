@@ -1,9 +1,6 @@
 # Hi there, I'm Eyosi 👋
-<p align="center">
-  <em>
-    Open Source Lover, Rust Admirer
-</p>
-
+<h3 align="center">Software Developer</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Iyosinator&label=Profile%20views&color=0e75b6&style=flat" alt="Iyosinator" /> </p>
 
 
 <h3 align="left">Languages and Tools I 💖:</h3>
