@@ -16,7 +16,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
    <a href=""> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-   <a href=""> <img src="https://w7.pngwing.com/pngs/856/814/png-transparent-rust-system-programming-language-computer-programming-rusted-miscellaneous-computer-programming-bicycle-part-thumbnail.png" alt="javascript" width="40" height="40"/> </a>
+   <a href=""> <img src="https://w7.pngwing.com/pngs/114/914/png-transparent-rust-programming-language-logo-machine-learning-haskell-crab-animals-cartoon-crab-thumbnail.png" alt="javascript" width="40" height="40"/> </a>
    <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 
 </p>
