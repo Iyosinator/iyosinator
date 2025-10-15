@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Eyosi</h1>
+<h1>Hi 👋, I'm Eyosi</h1>
 <h3 align="center">Software Engineer | Rust Admirer | Open Source Lover</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Iyosinator&label=Profile%20views&color=0e75b6&style=flat" alt="Iyosinator" /> </p>
 
