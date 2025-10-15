@@ -14,7 +14,7 @@ s<h1>Hi 👋, I'm Eyosi</h1>
 
 <h3 align="left">Languages and Tools I 💖:</h3>
 <p align="left">
-    <a href="hello.com"> <img src="" alt="rust" width="40" height="40"/> Rust </a>
+    <a href="hello.com"> <img src="assets/rust.svg" alt="rust" width="40" height="40"/> Rust </a>
     <a href="hello.com"> <img src="" alt="python" width="40" height="40"/> Python  </a>
     <a href="hello.com"> <img src="" alt="javascript" width="40" height="40"/> JavaScript </a>
     <a href="hello.com"> <img src="" alt="typescript" width="40" height="40"/> TypeScript </a>
