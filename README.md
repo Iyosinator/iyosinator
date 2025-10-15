@@ -4,12 +4,12 @@ s<h1>Hi 👋, I'm Eyosi</h1>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/iyosinator/" target="blank"> <img align="center" src="assets/linkedin.svg" alt="iyosinator" height="35" width="35" /></a>
-  <a href="https://x.com/Iyosinator" target="blank"> <img align="center" src="assets/x.svg" alt="iyosinator" height="50" width="50" /></a>
-  <a href="" target="blank"> <img align="center" src="assets/website.svg" alt="iyosinator" height="30" width="30" /></a>
-  <a href="mailto:iyosiasmulugeta@gmail.com" target="blank"> <img align="center" src="assets/email.svg" alt="iyosinator" height="30" width="40" /></a>
-  <a href="https://leetcode.com/u/MrBits/" target="blank"> <img align="center" src="assets/leetcode.svg" alt="iyosinator" height="30" width="40" /></a>
-  <a href="https://codeforces.com/profile/Mr.Bits" target="blank"> <img align="center" src="assets/codeforces.svg" alt="iyosinator" height="30" width="30" /></a>
+  <a href="https://www.linkedin.com/in/iyosinator/" target="blank"> <img align="center" src="assets/linkedin.svg" alt="Linkedin" height="35" width="35" /></a>
+  <a href="https://x.com/Iyosinator" target="blank"> <img align="center" src="assets/x.svg" alt="X" height="50" width="50" /></a>
+  <a href="" target="blank"> <img align="center" src="assets/website.svg" alt="Portfolio" height="30" width="30" /></a>
+  <a href="mailto:iyosiasmulugeta@gmail.com" target="blank"> <img align="center" src="assets/email.svg" alt="Email" height="30" width="40" /></a>
+  <a href="https://leetcode.com/u/MrBits/" target="blank"> <img align="center" src="assets/leetcode.svg" alt="LeetCode" height="30" width="40" /></a>
+  <a href="https://codeforces.com/profile/Mr.Bits" target="blank"> <img align="center" src="assets/codeforces.svg" alt="Codeforces" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools I 💖:</h3>
