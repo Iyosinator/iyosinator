@@ -25,10 +25,10 @@ s<h1>Hi 👋, I'm Eyosi</h1>
     <a href="hello.com"> <img src="assets/nestjs.svg" alt="Nest.js" width="40" height="40"/></a>
     <a href="hello.com"> <img src="assets/reactnative.svg" alt="javascript" width="40" height="40"/></a>
     <a href="hello.com"> <img src="assets/reactjs.svg" alt="React.js" width="40" height="40"/</a>
-    <a href="hello.com"> <img src="assets/nextjs.svg" alt="Next.js" width="40" height="40"/> Next.js </a>
-    <a href="hello.com"> <img src="assets/sql.svg" alt="javascript" width="40" height="40"/> SQL </a>
-    <a href="hello.com"> <img src="assets/postgresql.svg" alt="javascript" width="40" height="40"/> PostgreSQL </a>
-    <a href="hello.com"> <img src="assets/mongodb.svg" alt="javascript" width="40" height="40"/> MongoDB </a>
-    <a href="hello.com"> <img src="assets/redis.svg" alt="javascript" width="40" height="40"/> Redis </a>
+    <a href="hello.com"> <img src="assets/nextjs.svg" alt="Next.js" width="40" height="40"/></a>
+    <a href="hello.com"> <img src="assets/sql.svg" alt="javascript" width="40" height="40"/></a>
+    <a href="hello.com"> <img src="assets/postgresql.svg" alt="javascript" width="40" height="40"/></a>
+    <a href="hello.com"> <img src="assets/mongodb.svg" alt="javascript" width="40" height="40"/></a>
+    <a href="hello.com"> <img src="assets/redis.svg" alt="javascript" width="40" height="40"/></a>
 </p>
 
