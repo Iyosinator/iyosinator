@@ -4,7 +4,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/iyosinator/" target="blank"> <img align="center" src="assets/linkedin.svg" alt="Linkedin" height="40" width="40" /></a>
+  <a href="https://www.linkedin.com/in/iyosinator/" target="blank"> <img align="center" src="assets/linkedin.svg" alt="Linkedin" height="50" width="50" /></a>
   <a href="https://x.com/Iyosinator" target="blank"> <img align="center" src="assets/x.svg" alt="X" height="50" width="50" /></a>
   <a href="" target="blank"> <img align="center" src="assets/website.svg" alt="Portfolio" height="30" width="30" /></a>
   <a href="mailto:iyosiasmulugeta@gmail.com" target="blank"> <img align="center" src="assets/email.svg" alt="Email" height="30" width="40" /></a>
