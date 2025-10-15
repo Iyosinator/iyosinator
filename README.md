@@ -22,6 +22,6 @@
     <a href="hello.com"> <img src="assets/lua.png" alt="lua" width="50" height="60"/></a>
     <a href="hello.com"> <img src="assets/postgresql.svg" alt="javascript" width="40" height="40"/></a>
     <a href="hello.com"> <img src="assets/mongodb.svg" alt="javascript" width="40" height="40"/></a>
-    <a href="hello.com"> <img src="assets/redis.svg" alt="javascript" width="30" height="30"/></a>
+    <a href="hello.com"> <img src="assets/redis.svg" alt="javascript" width="35" height="35"/></a>
 </p>
 
