@@ -12,24 +12,23 @@ s<h1>Hi 👋, I'm Eyosi</h1>
   <a href="https://codeforces.com/profile/Mr.Bits" target="blank"> <img align="center" src="assets/codeforces.svg" alt="Codeforces" height="30" width="30" /></a>
 </p>
 
-<h3 align="left">Languages and Tools I 💖:</h3>
+<h3 align="left">Languages and Tools I 💖 To Use:</h3>
 <p align="left">
-    <a href="hello.com"> <img src="assets/rust.svg" alt="rust" width="40" height="40"/> Rust </a>
-    <a href="hello.com"> <img src="" alt="python" width="40" height="40"/> Python  </a>
-    <a href="hello.com"> <img src="" alt="javascript" width="40" height="40"/> JavaScript </a>
-    <a href="hello.com"> <img src="" alt="typescript" width="40" height="40"/> TypeScript </a>
-    <a href="hello.com"> <img src="" alt="elixir" width="40" height="40"/> Elixir </a>
-    <a href="hello.com"> <img src="" alt="lua" width="40" height="40"/> Lua  </a>
-    <a href="hello.com"> <img src="" alt="javascript" width="40" height="40"/> Axum </a>
-    <a href="hello.com"> <img src="" alt="javascript" width="40" height="40"/> FAST API </a>
-    <a href="hello.com"> <img src="" alt="javascript" width="40" height="40"/> Nest.js </a>
-    <a href="hello.com"> <img src="" alt="javascript" width="40" height="40"/> SQL </a>
-    <a href="hello.com"> <img src="" alt="javascript" width="40" height="40"/> PostgreSQL </a>
-    <a href="hello.com"> <img src="" alt="javascript" width="40" height="40"/> MongoDB </a>
-    <a href="hello.com"> <img src="" alt="javascript" width="40" height="40"/> Redis </a>
-    <a href="hello.com"> <img src="" alt="javascript" width="40" height="40"/> React Native </a>
-    <a href="hello.com"> <img src="" alt="javascript" width="40" height="40"/> React </a>
-    <a href="hello.com"> <img src="" alt="javascript" width="40" height="40"/> Next.js </a>
-      
+    <a href="hello.com"> <img src="assets/rust.svg" alt="rust" width="40" height="40"/></a>
+    <a href="hello.com"> <img src="assets/python.svg" alt="python" width="40" height="40"/></a>
+    <a href="hello.com"> <img src="assets/javascript.svg" alt="javascript" width="40" height="40"/></a>
+    <a href="hello.com"> <img src="assets/typescript.svg" alt="typescript" width="40" height="40"/></a>
+    <a href="hello.com"> <img src="assets/elixir.svg" alt="elixir" width="40" height="40"/></a>
+    <a href="hello.com"> <img src="assets/lua.svg" alt="lua" width="40" height="40"/></a>
+    <a href="hello.com"> <img src="assets/axum.svg" alt="Axum" width="40" height="40"/></a>
+    <a href="hello.com"> <img src="assets/fastapi.svg" alt="FASTAPI" width="40" height="40"/></a>
+    <a href="hello.com"> <img src="assets/nestjs.svg" alt="Nest.js" width="40" height="40"/></a>
+    <a href="hello.com"> <img src="assets/reactnative.svg" alt="javascript" width="40" height="40"/></a>
+    <a href="hello.com"> <img src="assets/reactjs.svg" alt="React.js" width="40" height="40"/</a>
+    <a href="hello.com"> <img src="assets/nextjs.svg" alt="Next.js" width="40" height="40"/> Next.js </a>
+    <a href="hello.com"> <img src="assets/sql.svg" alt="javascript" width="40" height="40"/> SQL </a>
+    <a href="hello.com"> <img src="assets/postgresql.svg" alt="javascript" width="40" height="40"/> PostgreSQL </a>
+    <a href="hello.com"> <img src="assets/mongodb.svg" alt="javascript" width="40" height="40"/> MongoDB </a>
+    <a href="hello.com"> <img src="assets/redis.svg" alt="javascript" width="40" height="40"/> Redis </a>
 </p>
 
