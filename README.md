@@ -20,12 +20,6 @@
     <a href="hello.com"> <img src="assets/typescript.svg" alt="typescript" width="40" height="40"/></a>
     <a href="hello.com"> <img src="assets/elixir.svg" alt="elixir" width="40" height="40"/></a>
     <a href="hello.com"> <img src="assets/lua.png" alt="lua" width="50" height="60"/></a>
-    <a href="hello.com"> <img src="assets/axum.svg" alt="Axum" width="40" height="40"/></a>
-    <a href="hello.com"> <img src="assets/fastapi.svg" alt="FASTAPI" width="40" height="40"/></a>
-    <a href="hello.com"> <img src="assets/nestjs.svg" alt="Nest.js" width="40" height="40"/></a>
-    <a href="hello.com"> <img src="assets/reactnative.svg" alt="javascript" width="40" height="40"/></a>
-    <a href="hello.com"> <img src="assets/reactjs.svg" alt="React.js" width="40" height="40"/</a>
-    <a href="hello.com"> <img src="assets/nextjs.svg" alt="Next.js" width="40" height="40"/></a>
     <a href="hello.com"> <img src="assets/sql.svg" alt="javascript" width="40" height="40"/></a>
     <a href="hello.com"> <img src="assets/postgresql.svg" alt="javascript" width="40" height="40"/></a>
     <a href="hello.com"> <img src="assets/mongodb.svg" alt="javascript" width="40" height="40"/></a>
