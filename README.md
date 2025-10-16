@@ -13,7 +13,7 @@
 </p>
 <h3 align="left">Languages and Tools I 💖 To Use:</h3>
 <p align="left">
-    <a href="hello.com"> <img src="assets/rust.svg" alt="rust" width="50" height="50"/></a>
+    <a href="hello.com"> <img src="assets/rust.svg" alt="rust" width="45" height="45"/></a>
     <a href="hello.com"> <img src="assets/python.svg" alt="python" width="40" height="40"/></a>
     <a href="hello.com"> <img src="assets/javascript.svg" alt="javascript" width="40" height="40"/></a>
     <a href="hello.com"> <img src="assets/typescript.svg" alt="typescript" width="40" height="40"/></a>
