@@ -11,7 +11,6 @@
   <a href="https://leetcode.com/u/MrBits/" target="blank"> <img align="center" src="assets/leetcode.svg" alt="LeetCode" height="30" width="40" /></a>
   <a href="https://codeforces.com/profile/Mr.Bits" target="blank"> <img align="center" src="assets/codeforces.svg" alt="Codeforces" height="40" width="40" /></a>
 </p>
-
 <h3 align="left">Languages and Tools I 💖 To Use:</h3>
 <p align="left">
     <a href="hello.com"> <img src="assets/rust.svg" alt="rust" width="40" height="40"/></a>
