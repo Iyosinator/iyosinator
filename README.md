@@ -18,7 +18,7 @@
     <a href="hello.com"> <img src="assets/javascript.svg" alt="javascript" width="40" height="40"/></a>
     <a href="hello.com"> <img src="assets/typescript.svg" alt="typescript" width="40" height="40"/></a>
     <a href="hello.com"> <img src="assets/elixir.svg" alt="elixir" width="40" height="40"/></a>
-     <a href="hello.com"> <img src="assets/lua.svg" alt="javascript" width="60" height="60"/></a>
+     <a href="hello.com"> <img src="assets/lua.svg" alt="javascript" width="60" height="50"/></a>
     <a href="hello.com"> <img src="assets/postgresql.svg" alt="javascript" width="40" height="40"/></a>
     <a href="hello.com"> <img src="assets/mongodb.svg" alt="javascript" width="40" height="40"/></a>
     <a href="hello.com"> <img src="assets/redis.svg" alt="javascript" width="35" height="35"/></a>
